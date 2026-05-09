@@ -225,7 +225,7 @@ with tab_learn:
 
     This gives you a quick, research-based snapshot of your preferred way of learning.
     """)
-    
+        
     st.info("**Tip:** Take the quiz in the first tab to discover *your* dominant style!")
 
 # ====================== MAIN LAYOUT (side-by-side) ======================
