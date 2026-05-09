@@ -392,6 +392,6 @@ with col_cal:
                     st.rerun()
 
 # Footer
-st.caption("Powered by Dify + Vermunt's ILS • Web interface generated with Grok")
+st.caption("Powered by Gemini Flash 2.5 + Vermunt's ILS via Dify • Web interface generated with Grok")
 st.caption("Vermunt, J. D. H. M. (1994). Inventory of Learning Styles (ILS) [Database record]. APA PsycTests. https://doi.org/10.1037/t14424-000")
 st.caption("Vermunt, J. D. (1996). Metacognitive, Cognitive and Affective Aspects of Learning Styles and Strategies: A Phenomenographic Analysis. Higher Education, 31(1), 25–50. https://doi.org/10.1007/bf00129106")
