@@ -187,7 +187,7 @@ with tab_quiz:
 
 # ====================== LEARN STYLES TAB ======================
 with tab_learn:
-    st.subheader("📚 Vermunt’s 4 Learning Styles")
+    st.subheader("📚 Vermunt (1996)’s 4 Learning Styles")
     
     col1, col2 = st.columns(2)
     
@@ -216,7 +216,7 @@ with tab_learn:
     st.markdown("---")
     st.subheader("How the Quiz Calculates Your Results")
     st.markdown("""
-    The quiz is based on **Vermunt’s Inventory of Learning Styles (ILS)**.
+    The quiz is based on **Vermunt (1994)’s Inventory of Learning Styles (ILS)**.
 
     - You rate **12 statements** from 1 to 5.
     - The statements are divided into 4 groups of 3.
@@ -393,3 +393,5 @@ with col_cal:
 
 # Footer
 st.caption("Powered by Dify + Vermunt's ILS • Web interface generated with Grok")
+st.caption("Vermunt, J. D. H. M. (1994). Inventory of Learning Styles (ILS) [Database record]. APA PsycTests. https://doi.org/10.1037/t14424-000")
+st.caption("Vermunt, J. D. (1996). Metacognitive, Cognitive and Affective Aspects of Learning Styles and Strategies: A Phenomenographic Analysis. Higher Education, 31(1), 25–50. https://doi.org/10.1007/bf00129106")
