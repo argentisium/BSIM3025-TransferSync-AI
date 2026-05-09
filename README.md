@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# Created for BSIM3025 Multimedia and human-computer interaction's Individual Project: Multimedia Design and Creation 
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bsim3025-transfersync-ai.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -17,3 +15,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### However, please note that the DIFY_API_KEY has not been provided. Please contact the author if you would like to know about the Dify agentic AI workflow to reproduce the workflow.
