@@ -212,6 +212,19 @@ with tab_learn:
         st.write("• Want to apply what you learn to real life or future career")
         st.write("• Focus on the practical usefulness of the material")
         st.write("• Learn best when you see real-world relevance")
+
+    st.markdown("---")
+    st.subheader("How the Quiz Calculates Your Results")
+    st.markdown("""
+    The quiz is based on **Vermunt’s Inventory of Learning Styles (ILS)**.
+
+    - You rate **12 statements** from 1 to 5.
+    - The statements are divided into 4 groups of 3.
+    - We calculate the **average** for each group.
+    - The group with the **highest average** becomes your dominant learning style.
+
+    This gives you a quick, research-based snapshot of your preferred way of learning.
+    """)
     
     st.info("**Tip:** Take the quiz in the first tab to discover *your* dominant style!")
 
